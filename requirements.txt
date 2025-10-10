@@ -1,5 +1,6 @@
-requests>=2.31.0
-beautifulsoup4>=4.12.0
-selenium>=4.10.0
-supabase>=1.0.0
-python-dotenv>=1.0.0
+requests
+beautifulsoup4
+lxml
+supabase
+python-dotenv
+tqdm
