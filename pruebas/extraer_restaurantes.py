@@ -91,25 +91,22 @@ def guardar_restaurantes_csv(nuevos_restaurantes, csv_filename):
     except Exception as e:
         print(f"  [Error Guardado CSV]: {e}")
 
-def guardar_restaurantes_json(nuevos_restaurantes, json_filename):
-    os.makedirs(os.path.dirname(json_filename), exist_ok=True)
-    datos_existentes = []
-    if os.path.isfile(json_filename):
-        try:
-            with open(json_filename, 'r', encoding='utf-8') as f:
-                datos_existentes = json.load(f)
-            if not isinstance(datos_existentes, list):
-                datos_existentes = []
-        except json.JSONDecodeError:
-            datos_existentes = []
+def guardar_restaurantes_jsonl(nuevos_restaurantes, jsonl_filename):
+    os.makedirs(os.path.dirname(jsonl_filename), exist_ok=True)
     
-    datos_existentes.extend(nuevos_restaurantes)
     try:
-        with open(json_filename, 'w', encoding='utf-8') as f:
-            json.dump(datos_existentes, f, indent=2, ensure_ascii=False)
-        print(f"  [Guardado JSON] Total de restaurantes ahora: {len(datos_existentes)}")
+        # Abrir en modo 'append'
+        with open(jsonl_filename, 'a', encoding='utf-8') as f:
+            for restaurante in nuevos_restaurantes:
+                # Convertir el dict de Python a un string JSON
+                json_line = json.dumps(restaurante, ensure_ascii=False)
+                # Escribir esa línea en el archivo, seguida de un salto de línea
+                f.write(json_line + '\n')
+                
+        print(f"  [Guardado JSONL] Se añadieron {len(nuevos_restaurantes)} nuevos restaurantes a '{jsonl_filename}'")
+        
     except Exception as e:
-        print(f"  [Error Guardado JSON]: {e}")
+        print(f"  [Error Guardado JSONL]: {e}")
 
 def save_updated_zones(zones_data, filepath):
     """Guarda la lista de zonas con los contadores actualizados."""
@@ -249,7 +246,7 @@ def main():
 
             if restaurants_scraped_this_zone:
                 print(f"  Guardando {len(restaurants_scraped_this_zone)} restaurantes de {commune_name}...")
-                guardar_restaurantes_json(restaurants_scraped_this_zone, JSON_FILE_OUTPUT)
+                guardar_restaurantes_jsonl(restaurants_scraped_this_zone, JSON_FILE_OUTPUT)
                 guardar_restaurantes_csv(restaurants_scraped_this_zone, CSV_FILE_OUTPUT)
                 
                 zone_data['scraped'] = zone_data.get('scraped', 0) + 1
