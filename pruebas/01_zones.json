@@ -1,0 +1,226 @@
+[
+  {
+    "commune_name": "Santiago",
+    "typical_street": "Dieciocho 369, 8330523 Santiago, Región Metropolitana, Chile",
+    "url_base": "https://www.ubereats.com/cl-en/feed?diningMode=DELIVERY&pl=JTdCJTIyYWRkcmVzcyUyMiUzQSUyMkRpZWNpb2NobyUyMDM2OSUyMiUyQyUyMnJlZmVyZW5jZSUyMiUzQSUyMkNoSUpBY1ZhSWdiRllwWVJIc3hXTnJrM0xWOCUyMiUyQyUyMnJlZmVyZW5jZVR5cGUlMjIlM0ElMjJnb29nbGVfcGxhY2VzJTIyJTJDJTIybGF0aXR1ZGUlMjIlM0EtMzMuNDUwODY3JTJDJTIybG9uZ2l0dWRlJTIyJTNBLTcwLjY1ODAyJTdE",
+    "scraped": 0,
+    "last scraped": "2025-11-05T12:51:33.973635"
+  },
+  {
+    "commune_name": "Independencia",
+    "typical_street": "Río Jachal 1789, Independencia, Región Metropolitana, Chile",
+    "url_base": "https://www.ubereats.com/cl-en/feed?diningMode=DELIVERY&pl=JTdCJTIyYWRkcmVzcyUyMiUzQSUyMlIlQzMlQURvJTIwSmFjaGFsJTIwMTc4OSUyMiUyQyUyMnJlZmVyZW5jZSUyMiUzQSUyMkVqMVN3NjF2SUVwaFkyaGhiQ0F4TnpnNUxDQkpibVJsY0dWdVpHVnVZMmxoTENCU1pXZHB3N051SUUxbGRISnZjRzlzYVhSaGJtRXNJRU5vYVd4bElqRVNMd29VQ2hJSlVUZkN0TlBGWXBZUnM1NVRxdXA5djRrUV9RMHFGQW9TQ2N0MVA1X1J4V0tXRWZqNVhlTzJjdDJaJTIyJTJDJTIycmVmZXJlbmNlVHlwZSUyMiUzQSUyMmdvb2dsZV9wbGFjZXMlMjIlMkMlMjJsYXRpdHVkZSUyMiUzQS0zMy40MTI5ODg3JTJDJTIybG9uZ2l0dWRlJTIyJTNBLTcwLjY2NDc4NzY5OTk5OTk5JTdE",
+    "scraped": 0,
+    "last scraped": "2025-11-05T12:54:47.953032"
+  },
+  {
+    "commune_name": "Recoleta",
+    "typical_street": "8431396 Recoleta, Santiago Metropolitan Region, Chile",
+    "url_base": "https://www.ubereats.com/cl-en/feed?diningMode=DELIVERY&pl=JTdCJTIyYWRkcmVzcyUyMiUzQSUyMjg0MzEzOTYlMjBSZWNvbGV0YSUyMiUyQyUyMnJlZmVyZW5jZSUyMiUzQSUyMkNoSUpxUktSN2dyR1lwWVJWckJIOXhyY21YcyUyMiUyQyUyMnJlZmVyZW5jZVR5cGUlMjIlM0ElMjJnb29nbGVfcGxhY2VzJTIyJTJDJTIybGF0aXR1ZGUlMjIlM0EtMzMuMzk5ODMwNSUyQyUyMmxvbmdpdHVkZSUyMiUzQS03MC42NDM0ODkzOTk5OTk5OSU3RA%3D%3D",
+    "scraped": 0,
+    "last scraped": null
+  },
+  {
+    "commune_name": "Ñuñoa",
+    "typical_street": "Av. Irarrázaval",
+    "url_base": "",
+    "scraped": 0,
+    "last scraped": null
+  },
+  {
+    "commune_name": "San Joaquín",
+    "typical_street": "Av. Vicuña Mackenna",
+    "url_base": "",
+    "scraped": 0,
+    "last scraped": null
+  },
+  {
+    "commune_name": "Lo Prado",
+    "typical_street": "Av. San Pablo",
+    "url_base": "",
+    "scraped": 0,
+    "last scraped": null
+  },
+  {
+    "commune_name": "Quinta Normal",
+    "typical_street": "Av. Carrascal",
+    "url_base": "",
+    "scraped": 0,
+    "last scraped": null
+  },
+  {
+    "commune_name": "San Miguel",
+    "typical_street": "Gran Avenida",
+    "url_base": "",
+    "scraped": 0,
+    "last scraped": null
+  },
+  {
+    "commune_name": "Pedro Aguirre Cerda",
+    "typical_street": "Av. Clotario Blest",
+    "url_base": "",
+    "scraped": 0,
+    "last scraped": null
+  },
+  {
+    "commune_name": "Conchalí",
+    "typical_street": "Av. Independencia",
+    "url_base": "",
+    "scraped": 0,
+    "last scraped": null
+  },
+  {
+    "commune_name": "La Cisterna",
+    "typical_street": "Gran Avenida",
+    "url_base": "",
+    "scraped": 0,
+    "last scraped": null
+  },
+  {
+    "commune_name": "Cerro Navia",
+    "typical_street": "Av. Mapocho",
+    "url_base": "",
+    "scraped": 0,
+    "last scraped": null
+  },
+  {
+    "commune_name": "Macul",
+    "typical_street": "Av. Macul",
+    "url_base": "",
+    "scraped": 0,
+    "last scraped": null
+  },
+  {
+    "commune_name": "La Granja",
+    "typical_street": "Av. Santa Rosa",
+    "url_base": "",
+    "scraped": 0,
+    "last scraped": null
+  },
+  {
+    "commune_name": "El Bosque",
+    "typical_street": "Gran Avenida",
+    "url_base": "",
+    "scraped": 0,
+    "last scraped": null
+  },
+  {
+    "commune_name": "Renca",
+    "typical_street": "Av. Domingo Santa María",
+    "url_base": "",
+    "scraped": 0,
+    "last scraped": null
+  },
+  {
+    "commune_name": "La Florida",
+    "typical_street": "Av. Vicuña Mackenna",
+    "url_base": "",
+    "scraped": 0,
+    "last scraped": null
+  },
+  {
+    "commune_name": "San Ramón",
+    "typical_street": "Av. Santa Rosa",
+    "url_base": "",
+    "scraped": 0,
+    "last scraped": null
+  },
+  {
+    "commune_name": "Lo Espejo",
+    "typical_street": "Av. Lo Espejo",
+    "url_base": "",
+    "scraped": 0,
+    "last scraped": null
+  },
+  {
+    "commune_name": "Cerrillos",
+    "typical_street": "Av. Pedro Aguirre Cerda",
+    "url_base": "",
+    "scraped": 0,
+    "last scraped": null
+  },
+  {
+    "commune_name": "Vitacura",
+    "typical_street": "Av. Vitacura",
+    "url_base": "",
+    "scraped": 0,
+    "last scraped": null
+  },
+  {
+    "commune_name": "Huechuraba",
+    "typical_street": "Av. Américo Vespucio",
+    "url_base": "",
+    "scraped": 0,
+    "last scraped": null
+  },
+  {
+    "commune_name": "Peñalolén",
+    "typical_street": "Av. Grecia",
+    "url_base": "",
+    "scraped": 0,
+    "last scraped": null
+  },
+  {
+    "commune_name": "Las Condes",
+    "typical_street": "Av. Apoquindo",
+    "url_base": "",
+    "scraped": 0,
+    "last scraped": null
+  },
+  {
+    "commune_name": "Maipú",
+    "typical_street": "Av. Pajaritos",
+    "url_base": "",
+    "scraped": 0,
+    "last scraped": null
+  },
+  {
+    "commune_name": "Quilicura",
+    "typical_street": "Av. Américo Vespucio",
+    "url_base": "",
+    "scraped": 0,
+    "last scraped": null
+  },
+  {
+    "commune_name": "La Reina",
+    "typical_street": "Av. Larraín",
+    "url_base": "",
+    "scraped": 0,
+    "last scraped": null
+  },
+  {
+    "commune_name": "Pudahuel",
+    "typical_street": "Av. San Pablo",
+    "url_base": "",
+    "scraped": 0,
+    "last scraped": null
+  },
+  {
+    "commune_name": "La Pintana",
+    "typical_street": "Av. Santa Rosa",
+    "url_base": "",
+    "scraped": 0,
+    "last scraped": null
+  },
+  {
+    "commune_name": "Lo Barnechea",
+    "typical_street": "Av. Lo Barnechea",
+    "url_base": "",
+    "scraped": 0,
+    "last scraped": null
+  },
+  {
+    "commune_name": "Providencia",
+    "typical_street": "Av. Providencia 2237, local c 54, 7510089 Providencia, Región Metropolitana, Chile",
+    "url_base": "https://www.ubereats.com/cl-en/feed?diningMode=DELIVERY&pl=JTdCJTIyYWRkcmVzcyUyMiUzQSUyMmF2JTIwcHJvdmlkZW5jaWElMjAyMjM3JTIyJTJDJTIycmVmZXJlbmNlJTIyJTNBJTIyQ2hJSlp5UzU4MmZQWXBZUl95VlFUMzNoWDNzJTIyJTJDJTIycmVmZXJlbmNlVHlwZSUyMiUzQSUyMmdvb2dsZV9wbGFjZXMlMjIlMkMlMjJsYXRpdHVkZSUyMiUzQS0zMy40MjE1NjI2JTJDJTIybG9uZ2l0dWRlJTIyJTNBLTcwLjYwODk3MjUlN0Q%3D",
+    "scraped": 0,
+    "last scraped": "2025-11-05T14:08:55.197227"
+  },
+  {
+    "commune_name": "Estación Central",
+    "typical_street": "Av. Alameda Libertador Bernardo O'Higgins 4164, 9160061 Santiago, Estación Central, Región Metropolitana, Chile",
+    "url_base": "https://www.ubereats.com/cl-en/feed?diningMode=DELIVERY&pl=JTdCJTIyYWRkcmVzcyUyMiUzQSUyMkF2LiUyMExpYmVydGFkb3IlMjBCZXJuYXJkbyUyME8nSGlnZ2lucyUyMDQxODIlMjIlMkMlMjJyZWZlcmVuY2UlMjIlM0ElMjJDaElKWGFlSGNBREZZcFlSMnluNE94R0xyV1klMjIlMkMlMjJyZWZlcmVuY2VUeXBlJTIyJTNBJTIyZ29vZ2xlX3BsYWNlcyUyMiUyQyUyMmxhdGl0dWRlJTIyJTNBLTMzLjQ1NDU4NjYlMkMlMjJsb25naXR1ZGUlMjIlM0EtNzAuNjkyODg5JTdE",
+    "scraped": 0,
+    "last scraped": "2025-11-05T12:43:04.803837"
+  }
+]
