@@ -3,224 +3,224 @@
     "commune_name": "Santiago",
     "typical_street": "Dieciocho 369, 8330523 Santiago, Región Metropolitana, Chile",
     "url_base": "https://www.ubereats.com/cl-en/feed?diningMode=DELIVERY&pl=JTdCJTIyYWRkcmVzcyUyMiUzQSUyMkRpZWNpb2NobyUyMDM2OSUyMiUyQyUyMnJlZmVyZW5jZSUyMiUzQSUyMkNoSUpBY1ZhSWdiRllwWVJIc3hXTnJrM0xWOCUyMiUyQyUyMnJlZmVyZW5jZVR5cGUlMjIlM0ElMjJnb29nbGVfcGxhY2VzJTIyJTJDJTIybGF0aXR1ZGUlMjIlM0EtMzMuNDUwODY3JTJDJTIybG9uZ2l0dWRlJTIyJTNBLTcwLjY1ODAyJTdE",
-    "scraped": 0,
-    "last scraped": null
+    "scraped": 1,
+    "last scraped": "2025-11-05T15:00:18.527545"
   },
   {
     "commune_name": "Independencia",
     "typical_street": "Río Jachal 1789, Independencia, Región Metropolitana, Chile",
     "url_base": "https://www.ubereats.com/cl-en/feed?diningMode=DELIVERY&pl=JTdCJTIyYWRkcmVzcyUyMiUzQSUyMlIlQzMlQURvJTIwSmFjaGFsJTIwMTc4OSUyMiUyQyUyMnJlZmVyZW5jZSUyMiUzQSUyMkVqMVN3NjF2SUVwaFkyaGhiQ0F4TnpnNUxDQkpibVJsY0dWdVpHVnVZMmxoTENCU1pXZHB3N051SUUxbGRISnZjRzlzYVhSaGJtRXNJRU5vYVd4bElqRVNMd29VQ2hJSlVUZkN0TlBGWXBZUnM1NVRxdXA5djRrUV9RMHFGQW9TQ2N0MVA1X1J4V0tXRWZqNVhlTzJjdDJaJTIyJTJDJTIycmVmZXJlbmNlVHlwZSUyMiUzQSUyMmdvb2dsZV9wbGFjZXMlMjIlMkMlMjJsYXRpdHVkZSUyMiUzQS0zMy40MTI5ODg3JTJDJTIybG9uZ2l0dWRlJTIyJTNBLTcwLjY2NDc4NzY5OTk5OTk5JTdE",
-    "scraped": 0,
-    "last scraped": null
+    "scraped": 1,
+    "last scraped": "2025-11-05T15:03:31.714941"
   },
   {
     "commune_name": "Recoleta",
     "typical_street": "8431396 Recoleta, Santiago Metropolitan Region, Chile",
     "url_base": "https://www.ubereats.com/cl-en/feed?diningMode=DELIVERY&pl=JTdCJTIyYWRkcmVzcyUyMiUzQSUyMjg0MzEzOTYlMjBSZWNvbGV0YSUyMiUyQyUyMnJlZmVyZW5jZSUyMiUzQSUyMkNoSUpxUktSN2dyR1lwWVJWckJIOXhyY21YcyUyMiUyQyUyMnJlZmVyZW5jZVR5cGUlMjIlM0ElMjJnb29nbGVfcGxhY2VzJTIyJTJDJTIybGF0aXR1ZGUlMjIlM0EtMzMuMzk5ODMwNSUyQyUyMmxvbmdpdHVkZSUyMiUzQS03MC42NDM0ODkzOTk5OTk5OSU3RA%3D%3D",
-    "scraped": 0,
-    "last scraped": null
+    "scraped": 1,
+    "last scraped": "2025-11-05T15:06:46.815924"
   },
   {
     "commune_name": "Ñuñoa",
     "typical_street": "Ñuñoa, Región Metropolitana, Chile",
     "url_base": "https://www.ubereats.com/cl/feed?diningMode=DELIVERY&pl=JTdCJTIyYWRkcmVzcyUyMiUzQSUyMiVDMyU5MXUlQzMlQjFvYSUyMiUyQyUyMnJlZmVyZW5jZSUyMiUzQSUyMkNoSUo2VFpOX0pUUFlwWVJSVkgtM3hadmpaVSUyMiUyQyUyMnJlZmVyZW5jZVR5cGUlMjIlM0ElMjJnb29nbGVfcGxhY2VzJTIyJTJDJTIybGF0aXR1ZGUlMjIlM0EtMzMuNDU0OTE3NSUyQyUyMmxvbmdpdHVkZSUyMiUzQS03MC41OTgyOTE1JTdE",
-    "scraped": 0,
-    "last scraped": null
+    "scraped": 1,
+    "last scraped": "2025-11-05T15:10:00.960426"
   },
   {
     "commune_name": "San Joaquín",
     "typical_street": "Av. Vicuña Mackenna 4801-4927, Macul, Región Metropolitana",
     "url_base": "https://www.ubereats.com/cl/feed?diningMode=DELIVERY&pl=JTdCJTIyYWRkcmVzcyUyMiUzQSUyMlNhbiUyMEpvYXF1JUMzJUFEbiUyMiUyQyUyMnJlZmVyZW5jZSUyMiUzQSUyMkNoSUpjN3lpTkZiUllwWVJDeGgzTHNiYmhJZyUyMiUyQyUyMnJlZmVyZW5jZVR5cGUlMjIlM0ElMjJnb29nbGVfcGxhY2VzJTIyJTJDJTIybGF0aXR1ZGUlMjIlM0EtMzMuNDk5MjM0NCUyQyUyMmxvbmdpdHVkZSUyMiUzQS03MC42MTU4NTA3OTk5OTk5OSU3RA%3D%3D",
-    "scraped": 0,
-    "last scraped": null
+    "scraped": 1,
+    "last scraped": "2025-11-05T15:13:32.048313"
   },
   {
     "commune_name": "Lo Prado",
     "typical_street": "San Pablo 5829, Santiago, Lo Prado, Región Metropolitana",
     "url_base": "https://www.ubereats.com/cl/feed?diningMode=DELIVERY&pl=JTdCJTIyYWRkcmVzcyUyMiUzQSUyMjQ0QS4lMjBDT01JU0FSJUMzJThEQSUyMERFJTIwTE8lMjBQUkFETyUyMiUyQyUyMnJlZmVyZW5jZSUyMiUzQSUyMkNoSUpOVXVyem5mRVlwWVIzb3NvcWs0eHhHOCUyMiUyQyUyMnJlZmVyZW5jZVR5cGUlMjIlM0ElMjJnb29nbGVfcGxhY2VzJTIyJTJDJTIybGF0aXR1ZGUlMjIlM0EtMzMuNDQyNzY3NyUyQyUyMmxvbmdpdHVkZSUyMiUzQS03MC43MTYxMzI3JTdE",
-    "scraped": 0,
-    "last scraped": null
+    "scraped": 1,
+    "last scraped": "2025-11-05T15:16:31.189078"
   },
   {
     "commune_name": "Quinta Normal",
     "typical_street": "Av. Carrascal 4447, 8520680 Quinta Normal, Región Metropolitana",
     "url_base": "https://www.ubereats.com/cl/feed?diningMode=DELIVERY&pl=JTdCJTIyYWRkcmVzcyUyMiUzQSUyMk11bmljaXBhbGlkYWQlMjBkZSUyMFF1aW50YSUyME5vcm1hbCUyMiUyQyUyMnJlZmVyZW5jZSUyMiUzQSUyMkNoSUpOMVo5M2hYRVlwWVJuUS0wUlZBWTljTSUyMiUyQyUyMnJlZmVyZW5jZVR5cGUlMjIlM0ElMjJnb29nbGVfcGxhY2VzJTIyJTJDJTIybGF0aXR1ZGUlMjIlM0EtMzMuNDIyNjMxNyUyQyUyMmxvbmdpdHVkZSUyMiUzQS03MC42OTMzOTQ4JTdE",
-    "scraped": 0,
-    "last scraped": null
+    "scraped": 1,
+    "last scraped": "2025-11-05T15:20:04.080828"
   },
   {
     "commune_name": "San Miguel",
     "typical_street": "Gran Av. José Miguel Carrera, San Miguel, Región Metropolitana",
     "url_base": "https://www.ubereats.com/cl/feed?diningMode=DELIVERY&pl=JTdCJTIyYWRkcmVzcyUyMiUzQSUyMkdyYW4lMjBBdmVuaWRhJTIwSm9zJUMzJUE5JTIwTWlndWVsJTIwQ2FycmVyYSUyMiUyQyUyMnJlZmVyZW5jZSUyMiUzQSUyMkVrZEhjbUZ1SUVGMkxpQktiM1BEcVNCTmFXZDFaV3dnUTJGeWNtVnlZU3dnVTJGdUlFMXBaM1ZsYkN3Z1VtVm5hY096YmlCTlpYUnliM0J2YkdsMFlXNWhMQ0JEYUdsc1pTSXVLaXdLRkFvU0NZTkMwbWtCMjJLV0VlcWFyMGZteFdYUUVoUUtFZ2xmREFXczE5cGlsaEgzMk40NndjaURzQSUyMiUyQyUyMnJlZmVyZW5jZVR5cGUlMjIlM0ElMjJnb29nbGVfcGxhY2VzJTIyJTJDJTIybGF0aXR1ZGUlMjIlM0EtMzMuNDk1ODcxOCUyQyUyMmxvbmdpdHVkZSUyMiUzQS03MC42NTI2NTglN0Q%3D",
-    "scraped": 0,
-    "last scraped": null
+    "scraped": 1,
+    "last scraped": "2025-11-05T15:23:16.341010"
   },
   {
     "commune_name": "Pedro Aguirre Cerda",
     "typical_street": "Pedro Aguirre Cerda, Región Metropolitana",
     "url_base": "https://www.ubereats.com/cl/feed?diningMode=DELIVERY&pl=JTdCJTIyYWRkcmVzcyUyMiUzQSUyMlBhc2FqZSUyMENsb3RhcmlvJTIwQmxlc3QlMjIlMkMlMjJyZWZlcmVuY2UlMjIlM0ElMjJFa2hRWVhOaGFtVWdRMnh2ZEdGeWFXOGdRbXhsYzNRc0lGQmxaSEp2SUVGbmRXbHljbVVnUTJWeVpHRXNJRkpsWjJuRHMyNGdUV1YwY205d2IyeHBkR0Z1WVN3Z1EyaHBiR1VpTGlvc0NoUUtFZ2w3elltNU90dGlsaEYtcWk3OFp5OFB5QklVQ2hJSmE3WTJuTlBFWXBZUnljb09YTjE1TjZzJTIyJTJDJTIycmVmZXJlbmNlVHlwZSUyMiUzQSUyMmdvb2dsZV9wbGFjZXMlMjIlMkMlMjJsYXRpdHVkZSUyMiUzQS0zMy41MDU2NzI5JTJDJTIybG9uZ2l0dWRlJTIyJTNBLTcwLjY4MTk3NTIlN0Q%3D",
-    "scraped": 0,
-    "last scraped": null
+    "scraped": 1,
+    "last scraped": "2025-11-05T15:26:26.932442"
   },
   {
     "commune_name": "Conchalí",
     "typical_street": "Av. Independencia, Conchalí, Región Metropolitana",
     "url_base": "https://www.ubereats.com/cl/feed?diningMode=DELIVERY&pl=JTdCJTIyYWRkcmVzcyUyMiUzQSUyMkF2ZW5pZGElMjBJbmRlcGVuZGVuY2lhJTIyJTJDJTIycmVmZXJlbmNlJTIyJTNBJTIyRWpwQmRpNGdTVzVrWlhCbGJtUmxibU5wWVN3Z1EyOXVZMmhoYk1PdExDQlNaV2RwdzdOdUlFMWxkSEp2Y0c5c2FYUmhibUVzSUVOb2FXeGxJaTRxTEFvVUNoSUpRMkl1RklmR1lwWVJnbEVaRnpTblVxVVNGQW9TQ2NjamdyMS15R0tXRVRFWlhvejdhNFJqJTIyJTJDJTIycmVmZXJlbmNlVHlwZSUyMiUzQSUyMmdvb2dsZV9wbGFjZXMlMjIlMkMlMjJsYXRpdHVkZSUyMiUzQS0zMy4zODM5MTUyJTJDJTIybG9uZ2l0dWRlJTIyJTNBLTcwLjY4MDgxMzUlN0Q%3D",
-    "scraped": 0,
-    "last scraped": null
+    "scraped": 1,
+    "last scraped": "2025-11-05T15:29:58.125490"
   },
   {
     "commune_name": "La Cisterna",
     "typical_street": "Gran Av. José Miguel Carrera 9180, 8000159 La Cisterna, Región Metropolitana",
     "url_base": "https://www.ubereats.com/cl/feed?diningMode=DELIVERY&pl=JTdCJTIyYWRkcmVzcyUyMiUzQSUyMkdyYW4lMjBBdmVuaWRhJTIwSi5NLkNhcnJlcmElMjIlMkMlMjJyZWZlcmVuY2UlMjIlM0ElMjJDaElKXzdkUzBPSGJZcFlSQzZ5LXhtcVdqd00lMjIlMkMlMjJyZWZlcmVuY2VUeXBlJTIyJTNBJTIyZ29vZ2xlX3BsYWNlcyUyMiUyQyUyMmxhdGl0dWRlJTIyJTNBLTMzLjU0MjIyOTUlMkMlMjJsb25naXR1ZGUlMjIlM0EtNzAuNjY1MzQ1ODk5OTk5OTklN0Q%3D",
-    "scraped": 0,
-    "last scraped": null
+    "scraped": 1,
+    "last scraped": "2025-11-05T15:33:25.352453"
   },
   {
     "commune_name": "Cerro Navia",
     "typical_street": "Cerro Navia, Región Metropolitana",
     "url_base": "https://www.ubereats.com/cl/feed?diningMode=DELIVERY&pl=JTdCJTIyYWRkcmVzcyUyMiUzQSUyMk1hcG9jaG8lMjBTdXIlMjIlMkMlMjJyZWZlcmVuY2UlMjIlM0ElMjJFalpOWVhCdlkyaHZJRk4xY2l3Z1EyVnljbThnVG1GMmFXRXNJRkpsWjJuRHMyNGdUV1YwY205d2IyeHBkR0Z1WVN3Z1EyaHBiR1VpTGlvc0NoUUtFZ2xkUVQxMTJjTmlsaEZsZm5sa3JxUmF4UklVQ2hJSm4tN2V5ZHZEWXBZUkpuUlFMcUI0WmJJJTIyJTJDJTIycmVmZXJlbmNlVHlwZSUyMiUzQSUyMmdvb2dsZV9wbGFjZXMlMjIlMkMlMjJsYXRpdHVkZSUyMiUzQS0zMy40MjIyMjk2JTJDJTIybG9uZ2l0dWRlJTIyJTNBLTcwLjc1MDQ5ODElN0Q%3D",
-    "scraped": 0,
-    "last scraped": null
+    "scraped": 1,
+    "last scraped": "2025-11-05T15:36:40.442095"
   },
   {
     "commune_name": "Macul",
     "typical_street": "Macul, Región Metropolitana",
     "url_base": "https://www.ubereats.com/cl/feed?diningMode=DELIVERY&mod=deliveryDetails&modctx=%7B%22locationManagerOrigin%22%3A%22feed%22%7D&next=%2Fcl%2Ffeed%3FdiningMode%3DDELIVERY%26pl%3DJTdCJTIyYWRkcmVzcyUyMiUzQSUyMk1hY3VsJTIyJTJDJTIycmVmZXJlbmNlJTIyJTNBJTIyQ2hJSkNXT0UtRVRRWXBZUi1DOWhTM09ZRGRrJTIyJTJDJTIycmVmZXJlbmNlVHlwZSUyMiUzQSUyMmdvb2dsZV9wbGFjZXMlMjIlMkMlMjJsYXRpdHVkZSUyMiUzQS0zMy41MDg5NDY1JTJDJTIybG9uZ2l0dWRlJTIyJTNBLTcwLjU5MDA0MjQlN0Q%253D%26ps%3D1&pl=JTdCJTIyYWRkcmVzcyUyMiUzQSUyMk1hY3VsJTIyJTJDJTIycmVmZXJlbmNlJTIyJTNBJTIyQ2hJSkNXT0UtRVRRWXBZUi1DOWhTM09ZRGRrJTIyJTJDJTIycmVmZXJlbmNlVHlwZSUyMiUzQSUyMmdvb2dsZV9wbGFjZXMlMjIlMkMlMjJsYXRpdHVkZSUyMiUzQS0zMy41MDg5NDY1JTJDJTIybG9uZ2l0dWRlJTIyJTNBLTcwLjU5MDA0MjQlN0Q%3D",
-    "scraped": 0,
-    "last scraped": null
+    "scraped": 1,
+    "last scraped": "2025-11-05T15:40:05.743407"
   },
   {
     "commune_name": "La Granja",
     "typical_street": "La Granja, Región Metropolitana",
     "url_base": "https://www.ubereats.com/cl/feed?diningMode=DELIVERY&pl=JTdCJTIyYWRkcmVzcyUyMiUzQSUyMkxhJTIwR3JhbmphJTIyJTJDJTIycmVmZXJlbmNlJTIyJTNBJTIyQ2hJSjN5MHM1SDNRWXBZUlkzUEJPQVQ2b2w0JTIyJTJDJTIycmVmZXJlbmNlVHlwZSUyMiUzQSUyMmdvb2dsZV9wbGFjZXMlMjIlMkMlMjJsYXRpdHVkZSUyMiUzQS0zMy41Mzc3NjQyJTJDJTIybG9uZ2l0dWRlJTIyJTNBLTcwLjYyMDc2NzclN0Q%3D",
-    "scraped": 0,
-    "last scraped": null
+    "scraped": 1,
+    "last scraped": "2025-11-05T15:43:46.463191"
   },
   {
     "commune_name": "El Bosque",
     "typical_street": "El Bosque, Región Metropolitana",
     "url_base": "https://www.ubereats.com/cl/feed?diningMode=DELIVERY&pl=JTdCJTIyYWRkcmVzcyUyMiUzQSUyMkVsJTIwQm9zcXVlJTIyJTJDJTIycmVmZXJlbmNlJTIyJTNBJTIyQ2hJSkVSUEtQY25iWXBZUnM4X0hrY0ZCcDRVJTIyJTJDJTIycmVmZXJlbmNlVHlwZSUyMiUzQSUyMmdvb2dsZV9wbGFjZXMlMjIlMkMlMjJsYXRpdHVkZSUyMiUzQS0zMy41NTg5Mjg3JTJDJTIybG9uZ2l0dWRlJTIyJTNBLTcwLjY3ODc3ODk5OTk5OTk5JTdE",
-    "scraped": 0,
-    "last scraped": null
+    "scraped": 1,
+    "last scraped": "2025-11-05T15:46:52.219879"
   },
   {
     "commune_name": "Renca",
     "typical_street": "Renca, Región Metropolitana",
     "url_base": "https://www.ubereats.com/cl/feed?diningMode=DELIVERY&pl=JTdCJTIyYWRkcmVzcyUyMiUzQSUyMlJlbmNhJTIyJTJDJTIycmVmZXJlbmNlJTIyJTNBJTIyQ2hJSjA3enJGcTdHWXBZUlQ2VndpTmlKRk9rJTIyJTJDJTIycmVmZXJlbmNlVHlwZSUyMiUzQSUyMmdvb2dsZV9wbGFjZXMlMjIlMkMlMjJsYXRpdHVkZSUyMiUzQS0zMy40MDY0NDg2JTJDJTIybG9uZ2l0dWRlJTIyJTNBLTcwLjcyNzkzNzU5OTk5OTk5JTdE",
-    "scraped": 0,
-    "last scraped": null
+    "scraped": 1,
+    "last scraped": "2025-11-05T15:49:54.619825"
   },
   {
     "commune_name": "La Florida",
     "typical_street": "La Florida, Región Metropolitana",
     "url_base": "https://www.ubereats.com/cl/feed?diningMode=DELIVERY&pl=JTdCJTIyYWRkcmVzcyUyMiUzQSUyMkxhJTIwRmxvcmlkYSUyMiUyQyUyMnJlZmVyZW5jZSUyMiUzQSUyMkNoSUpsWkRWN0NYUllwWVJyUE8tVnN2bWRRTSUyMiUyQyUyMnJlZmVyZW5jZVR5cGUlMjIlM0ElMjJnb29nbGVfcGxhY2VzJTIyJTJDJTIybGF0aXR1ZGUlMjIlM0EtMzMuNTIyNjg4MiUyQyUyMmxvbmdpdHVkZSUyMiUzQS03MC41OTg3MTQyJTdE",
-    "scraped": 0,
-    "last scraped": null
+    "scraped": 1,
+    "last scraped": "2025-11-05T15:53:41.708281"
   },
   {
     "commune_name": "San Ramón",
     "typical_street": "Av. Santa Rosa",
     "url_base": "https://www.ubereats.com/cl/feed?diningMode=DELIVERY&pl=JTdCJTIyYWRkcmVzcyUyMiUzQSUyMlNhbiUyMFJhbSVDMyVCM24lMjIlMkMlMjJyZWZlcmVuY2UlMjIlM0ElMjJDaElKNVZya0dHZmFZcFlSajkwYzQ1bUlSR2slMjIlMkMlMjJyZWZlcmVuY2VUeXBlJTIyJTNBJTIyZ29vZ2xlX3BsYWNlcyUyMiUyQyUyMmxhdGl0dWRlJTIyJTNBLTMzLjU0OTM3MTQlMkMlMjJsb25naXR1ZGUlMjIlM0EtNzAuNjQ2MDcyMTk5OTk5OTklN0Q%3D",
-    "scraped": 0,
-    "last scraped": null
+    "scraped": 1,
+    "last scraped": "2025-11-05T15:57:10.809630"
   },
   {
     "commune_name": "Lo Espejo",
     "typical_street": "Lo Espejo, Región Metropolitana",
     "url_base": "https://www.ubereats.com/cl/feed?diningMode=DELIVERY&pl=JTdCJTIyYWRkcmVzcyUyMiUzQSUyMkxvJTIwRXNwZWpvJTIyJTJDJTIycmVmZXJlbmNlJTIyJTNBJTIyQ2hJSnRSRmpRQlRiWXBZUmw4dHllbENRZTJvJTIyJTJDJTIycmVmZXJlbmNlVHlwZSUyMiUzQSUyMmdvb2dsZV9wbGFjZXMlMjIlMkMlMjJsYXRpdHVkZSUyMiUzQS0zMy41MjIxMDE2JTJDJTIybG9uZ2l0dWRlJTIyJTNBLTcwLjY5MDU3MTklN0Q%3D",
-    "scraped": 0,
-    "last scraped": null
+    "scraped": 1,
+    "last scraped": "2025-11-05T16:00:35.823563"
   },
   {
     "commune_name": "Cerrillos",
     "typical_street": "Cerrillos, Región Metropolitana",
     "url_base": "https://www.ubereats.com/cl/feed?diningMode=DELIVERY&pl=JTdCJTIyYWRkcmVzcyUyMiUzQSUyMkNlcnJpbGxvcyUyMiUyQyUyMnJlZmVyZW5jZSUyMiUzQSUyMkNoSUo2UjNDb2F2RVlwWVJmQzN6SWZ0T0xCcyUyMiUyQyUyMnJlZmVyZW5jZVR5cGUlMjIlM0ElMjJnb29nbGVfcGxhY2VzJTIyJTJDJTIybGF0aXR1ZGUlMjIlM0EtMzMuNTAwODQ2NiUyQyUyMmxvbmdpdHVkZSUyMiUzQS03MC43MTAwNDgxJTdE",
-    "scraped": 0,
-    "last scraped": null
+    "scraped": 1,
+    "last scraped": "2025-11-05T16:03:35.248235"
   },
   {
     "commune_name": "Vitacura",
     "typical_street": "Vitacura, Región Metropolitana",
     "url_base": "https://www.ubereats.com/cl/feed?diningMode=DELIVERY&pl=JTdCJTIyYWRkcmVzcyUyMiUzQSUyMlZpdGFjdXJhJTIyJTJDJTIycmVmZXJlbmNlJTIyJTNBJTIyQ2hJSlQ4XzVzVGJQWXBZUkM3bkRoT05NOUtZJTIyJTJDJTIycmVmZXJlbmNlVHlwZSUyMiUzQSUyMmdvb2dsZV9wbGFjZXMlMjIlMkMlMjJsYXRpdHVkZSUyMiUzQS0zMy4zOTAzMDE2JTJDJTIybG9uZ2l0dWRlJTIyJTNBLTcwLjU3MjI5MzglN0Q%3D",
-    "scraped": 0,
-    "last scraped": null
+    "scraped": 1,
+    "last scraped": "2025-11-05T16:07:24.747822"
   },
   {
     "commune_name": "Huechuraba",
     "typical_street": "Huechuraba, Región Metropolitana",
     "url_base": "https://www.ubereats.com/cl/feed?diningMode=DELIVERY&pl=JTdCJTIyYWRkcmVzcyUyMiUzQSUyMkh1ZWNodXJhYmElMjIlMkMlMjJyZWZlcmVuY2UlMjIlM0ElMjJDaElKcHhYeU9qM0dZcFlSYnQzWGc5TEliNTglMjIlMkMlMjJyZWZlcmVuY2VUeXBlJTIyJTNBJTIyZ29vZ2xlX3BsYWNlcyUyMiUyQyUyMmxhdGl0dWRlJTIyJTNBLTMzLjM3NDUyMDUlMkMlMjJsb25naXR1ZGUlMjIlM0EtNzAuNjM2OTgzMzk5OTk5OTklN0Q%3D",
-    "scraped": 0,
-    "last scraped": null
+    "scraped": 1,
+    "last scraped": "2025-11-05T16:10:29.603659"
   },
   {
     "commune_name": "Peñalolén",
     "typical_street": "Peñalolén, Región Metropolitana",
     "url_base": "https://www.ubereats.com/cl/feed?diningMode=DELIVERY&pl=JTdCJTIyYWRkcmVzcyUyMiUzQSUyMlBlJUMzJUIxYWxvbCVDMyVBOW4lMjIlMkMlMjJyZWZlcmVuY2UlMjIlM0ElMjJDaElKazVWUjJQRFJZcFlSZ3ctTy1fcUNEdDglMjIlMkMlMjJyZWZlcmVuY2VUeXBlJTIyJTNBJTIyZ29vZ2xlX3BsYWNlcyUyMiUyQyUyMmxhdGl0dWRlJTIyJTNBLTMzLjQ3MzM1NDUlMkMlMjJsb25naXR1ZGUlMjIlM0EtNzAuNTU1MTAwNSU3RA%3D%3D",
-    "scraped": 0,
-    "last scraped": null
+    "scraped": 1,
+    "last scraped": "2025-11-05T16:14:02.288268"
   },
   {
     "commune_name": "Las Condes",
     "typical_street": "Las Condes, Región Metropolitana",
     "url_base": "https://www.ubereats.com/cl/feed?diningMode=DELIVERY&pl=JTdCJTIyYWRkcmVzcyUyMiUzQSUyMkxhcyUyMENvbmRlcyUyMiUyQyUyMnJlZmVyZW5jZSUyMiUzQSUyMkNoSUp2YlRhcUJuUFlwWVJhUUlZNzV4SHdaTSUyMiUyQyUyMnJlZmVyZW5jZVR5cGUlMjIlM0ElMjJnb29nbGVfcGxhY2VzJTIyJTJDJTIybGF0aXR1ZGUlMjIlM0EtMzMuNDE2MTA4OCUyQyUyMmxvbmdpdHVkZSUyMiUzQS03MC41MzQwNjIzJTdE",
-    "scraped": 0,
-    "last scraped": null
+    "scraped": 1,
+    "last scraped": "2025-11-05T16:17:39.874032"
   },
   {
     "commune_name": "Maipú",
     "typical_street": "Maipú, Región Metropolitana",
     "url_base": "https://www.ubereats.com/cl/feed?diningMode=DELIVERY&pl=JTdCJTIyYWRkcmVzcyUyMiUzQSUyMk1haXAlQzMlQkElMjIlMkMlMjJyZWZlcmVuY2UlMjIlM0ElMjJDaElKUDJjc1d5amRZcFlSYllac2s2V2MwZnclMjIlMkMlMjJyZWZlcmVuY2VUeXBlJTIyJTNBJTIyZ29vZ2xlX3BsYWNlcyUyMiUyQyUyMmxhdGl0dWRlJTIyJTNBLTMzLjUxMDU4NjYlMkMlMjJsb25naXR1ZGUlMjIlM0EtNzAuNzU3MjYwNyU3RA%3D%3D",
-    "scraped": 0,
-    "last scraped": null
+    "scraped": 1,
+    "last scraped": "2025-11-05T16:21:07.212834"
   },
   {
     "commune_name": "Quilicura",
     "typical_street": "Quilicura, Región Metropolitana",
     "url_base": "https://www.ubereats.com/cl/feed?diningMode=DELIVERY&pl=JTdCJTIyYWRkcmVzcyUyMiUzQSUyMlF1aWxpY3VyYSUyMiUyQyUyMnJlZmVyZW5jZSUyMiUzQSUyMkNoSUpfOUEtRC1YQVlwWVIwT3ZqLUl6aHdYZyUyMiUyQyUyMnJlZmVyZW5jZVR5cGUlMjIlM0ElMjJnb29nbGVfcGxhY2VzJTIyJTJDJTIybGF0aXR1ZGUlMjIlM0EtMzMuMzU3ODEyOCUyQyUyMmxvbmdpdHVkZSUyMiUzQS03MC43MjkxMzE3OTk5OTk5OSU3RA%3D%3D",
-    "scraped": 0,
-    "last scraped": null
+    "scraped": 1,
+    "last scraped": "2025-11-05T16:24:21.796535"
   },
   {
     "commune_name": "La Reina",
     "typical_street": "La Reina, Región Metropolitana",
     "url_base": "https://www.ubereats.com/cl/feed?diningMode=DELIVERY&pl=JTdCJTIyYWRkcmVzcyUyMiUzQSUyMkxhJTIwUmVpbmElMjIlMkMlMjJyZWZlcmVuY2UlMjIlM0ElMjJDaElKRmFGem9Xck9ZcFlSSXNtejdYQ282aFElMjIlMkMlMjJyZWZlcmVuY2VUeXBlJTIyJTNBJTIyZ29vZ2xlX3BsYWNlcyUyMiUyQyUyMmxhdGl0dWRlJTIyJTNBLTMzLjQ0MTg2MDElMkMlMjJsb25naXR1ZGUlMjIlM0EtNzAuNTM0NTU1MyU3RA%3D%3D",
-    "scraped": 0,
-    "last scraped": null
+    "scraped": 1,
+    "last scraped": "2025-11-05T16:27:47.052008"
   },
   {
     "commune_name": "Pudahuel",
     "typical_street": "Pudahuel, Región Metropolitana",
     "url_base": "https://www.ubereats.com/cl/feed?diningMode=DELIVERY&pl=JTdCJTIyYWRkcmVzcyUyMiUzQSUyMlB1ZGFodWVsJTIyJTJDJTIycmVmZXJlbmNlJTIyJTNBJTIyQ2hJSkpUcGFCc1hyWXBZUkxDT3JibVFaSGJJJTIyJTJDJTIycmVmZXJlbmNlVHlwZSUyMiUzQSUyMmdvb2dsZV9wbGFjZXMlMjIlMkMlMjJsYXRpdHVkZSUyMiUzQS0zMy40NDIwNDQzJTJDJTIybG9uZ2l0dWRlJTIyJTNBLTcwLjc2NDA4MzMlN0Q%3D",
-    "scraped": 0,
-    "last scraped": null
+    "scraped": 1,
+    "last scraped": "2025-11-05T16:31:12.779372"
   },
   {
     "commune_name": "La Pintana",
     "typical_street": "La Pintana, Región Metropolitana",
     "url_base": "https://www.ubereats.com/cl/feed?diningMode=DELIVERY&pl=JTdCJTIyYWRkcmVzcyUyMiUzQSUyMkxhJTIwUGludGFuYSUyMiUyQyUyMnJlZmVyZW5jZSUyMiUzQSUyMkNoSUprNkxTWGNMWllwWVJGc2k5ZzhxVF9KNCUyMiUyQyUyMnJlZmVyZW5jZVR5cGUlMjIlM0ElMjJnb29nbGVfcGxhY2VzJTIyJTJDJTIybGF0aXR1ZGUlMjIlM0EtMzMuNTg1NTYzMSUyQyUyMmxvbmdpdHVkZSUyMiUzQS03MC42Mjg2ODQyJTdE",
-    "scraped": 0,
-    "last scraped": null
+    "scraped": 1,
+    "last scraped": "2025-11-05T16:34:25.302480"
   },
   {
     "commune_name": "Lo Barnechea",
     "typical_street": "Lo Barnechea, Región Metropolitana",
     "url_base": "https://www.ubereats.com/cl/feed?diningMode=DELIVERY&pl=JTdCJTIyYWRkcmVzcyUyMiUzQSUyMkxvJTIwQmFybmVjaGVhJTIyJTJDJTIycmVmZXJlbmNlJTIyJTNBJTIyQ2hJSjlYWFRrdHJMWXBZUnd5U3Z2ZFI3VGU0JTIyJTJDJTIycmVmZXJlbmNlVHlwZSUyMiUzQSUyMmdvb2dsZV9wbGFjZXMlMjIlMkMlMjJsYXRpdHVkZSUyMiUzQS0zMy4zNTI3MTcyJTJDJTIybG9uZ2l0dWRlJTIyJTNBLTcwLjUxODU1MDYlN0Q%3D",
-    "scraped": 0,
-    "last scraped": null
+    "scraped": 1,
+    "last scraped": "2025-11-05T16:37:38.992373"
   },
   {
     "commune_name": "Providencia",
     "typical_street": "Av. Providencia 2237, local c 54, 7510089 Providencia, Región Metropolitana, Chile",
     "url_base": "https://www.ubereats.com/cl-en/feed?diningMode=DELIVERY&pl=JTdCJTIyYWRkcmVzcyUyMiUzQSUyMmF2JTIwcHJvdmlkZW5jaWElMjAyMjM3JTIyJTJDJTIycmVmZXJlbmNlJTIyJTNBJTIyQ2hJSlp5UzU4MmZQWXBZUl95VlFUMzNoWDNzJTIyJTJDJTIycmVmZXJlbmNlVHlwZSUyMiUzQSUyMmdvb2dsZV9wbGFjZXMlMjIlMkMlMjJsYXRpdHVkZSUyMiUzQS0zMy40MjE1NjI2JTJDJTIybG9uZ2l0dWRlJTIyJTNBLTcwLjYwODk3MjUlN0Q%3D",
-    "scraped": 0,
-    "last scraped": null
+    "scraped": 1,
+    "last scraped": "2025-11-05T16:40:36.618347"
   },
   {
     "commune_name": "Estación Central",
     "typical_street": "Av. Alameda Libertador Bernardo O'Higgins 4164, 9160061 Santiago, Estación Central, Región Metropolitana, Chile",
     "url_base": "https://www.ubereats.com/cl-en/feed?diningMode=DELIVERY&pl=JTdCJTIyYWRkcmVzcyUyMiUzQSUyMkF2LiUyMExpYmVydGFkb3IlMjBCZXJuYXJkbyUyME8nSGlnZ2lucyUyMDQxODIlMjIlMkMlMjJyZWZlcmVuY2UlMjIlM0ElMjJDaElKWGFlSGNBREZZcFlSMnluNE94R0xyV1klMjIlMkMlMjJyZWZlcmVuY2VUeXBlJTIyJTNBJTIyZ29vZ2xlX3BsYWNlcyUyMiUyQyUyMmxhdGl0dWRlJTIyJTNBLTMzLjQ1NDU4NjYlMkMlMjJsb25naXR1ZGUlMjIlM0EtNzAuNjkyODg5JTdE",
-    "scraped": 0,
-    "last scraped": null
+    "scraped": 1,
+    "last scraped": "2025-11-05T16:44:12.458525"
   }
 ]
