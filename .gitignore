@@ -43,3 +43,4 @@ Thumbs.db
 # data
 data/*
 uber/data/*
+supabase_update/*

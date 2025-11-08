@@ -3,4 +3,5 @@ beautifulsoup4
 lxml
 supabase
 python-dotenv
+psycopg2-binary
 tqdm
