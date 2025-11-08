@@ -15,7 +15,7 @@ BASE_DIR = Path(__file__).resolve().parents[1]
 CSV_DIR = BASE_DIR / "supabase_update"
 RESTAURANTS_CSV = CSV_DIR / "restaurants.csv"
 FOOD_ITEMS_CSV = CSV_DIR / "food_items.csv"
-DEFAULT_BATCH_SIZE = 500
+DEFAULT_BATCH_SIZE = 1000
 
 
 def _db_schema() -> str:
